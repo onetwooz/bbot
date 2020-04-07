@@ -61,7 +61,7 @@ pytest==5.4.1
 python-dateutil==2.8.1
 python-telegram-bot==12.5.1
 pytz==2019.3
-requests==2.7.0
+requests==2.20.0
 simplejson==3.17.0
 six==1.14.0
 socketIO-client==0.7.2
